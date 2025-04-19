@@ -24,9 +24,10 @@ My WandB report: [https://wandb.ai/ma23c047-indian-institute-of-technology-madra
 
 The dataset utilized for this assignment is `[iNaturalist]`. You can download and set it up using the following commands (replace with the actual dataset commands):
 
-```sh
+
 wget [https://storage.googleapis.com/wandb_datasets/nature_12K.zip]
 unzip [nature_12k].zip
+
 
 ## Customization
 
