@@ -33,5 +33,6 @@ unzip [nature_12k].zip
 ## Customization
 
 - notebooks section contain all the runs and sweeeps run for the assignment.
+  
 -there are several .py files in part A which have been used to train different models on the dataset and some wandb sweeps also
 
