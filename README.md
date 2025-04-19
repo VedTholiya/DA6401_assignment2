@@ -26,11 +26,13 @@ The dataset utilized for this assignment is `[iNaturalist]`. You can download an
 
 
 wget [https://storage.googleapis.com/wandb_datasets/nature_12K.zip]
+
 unzip [nature_12k].zip
 
 
 ## Customization
 
-- notebooka section contain all the runs and sweeeps run for the assignment.
+- notebooks section contain all the runs and sweeeps run for the assignment.
+- 
 -there are several .py files in part A which have been used to train different models on the dataset and some wandb sweeps also
 
